@@ -1,7 +1,7 @@
 === Wikipedia Anniversaries ===
 Plugin Name: Wikipedia Anniversaries
 Plugin URI: http://smartfan.pl/
-Tags: widget, wikipedia, wikipedia anniversaries, wikipedia widget, anniversaries, calendar, dates
+Tags: widget, wikipedia, wikipedia anniversaries, wikipedia widget, anniversaries, calendar
 Author: Piotr Pesta
 Requires at least: 2.8.0
 Tested up to: 4.0.1
