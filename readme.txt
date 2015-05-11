@@ -1,5 +1,6 @@
 === Wikipedia Anniversaries ===
 Contributors: Piotr Pesta
+Donate link: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG
 Plugin Name: Wikipedia Anniversaries
 Plugin URI: http://smartfan.pl/
 Tags: widget, wikipedia, wikipedia anniversaries, wikipedia widget, anniversaries, calendar
