@@ -16,6 +16,8 @@ Wikipedia Anniversaries is a widget that lets your visitors to see important his
 
 Wikipedia Anniversaries is a widget that lets your visitors to see important history dates from Wikipedia. Supported languages so far: Deutsch, Polish, English. More languages in the future. To customize style just edit style-wiki-this-day.css file.
 
+If you would like to show your support for this software, please consider donating: [Donate via PayPal](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=EEDF5TV3M2WVG).
+
 == Installation ==
 
 1. Upload the zip to 'plugins' directory
