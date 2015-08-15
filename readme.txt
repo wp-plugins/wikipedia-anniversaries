@@ -6,7 +6,7 @@ Plugin URI: http://smartfan.pl/
 Tags: widget, wikipedia, wikipedia anniversaries, wikipedia widget, anniversaries, calendar
 Author: Piotr Pesta
 Requires at least: 2.8.0
-Tested up to: 4.2
+Tested up to: 4.3
 Stable tag: 1.1.6
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
